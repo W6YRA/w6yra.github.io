@@ -1,5 +1,7 @@
+---
 layout: page
-title: "ABOUT"
+title: "Bruin Amateur Radio Club"
 permalink: /about
+---
 
 <h1>HELLO</h1>
