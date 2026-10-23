@@ -1,7 +1,3 @@
-remote_theme: jekyll/minima
+remote_theme: alembic-jekyll-theme
 title: W6YRA - Bruin Amateur Radio Club at UCLA
 description: hehe
-
-header_pages:
-  - index.md
-  - events.md
