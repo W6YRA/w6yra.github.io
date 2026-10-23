@@ -1,14 +1,8 @@
-remote_theme: jekyll/minima
-plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
-  - jekyll-seo-tag
+theme: minima
 title: W6YRA - Bruin Amateur Radio Club at UCLA
 description: hehe
 
 minima:
-  skin: dark
-
   header_pages:
     - index.md 
     - events.md

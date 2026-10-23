@@ -1,4 +1,9 @@
 ---
 ---
 
-@import "minima/skins/{{ site.minima.skin | default: 'classic' }}", "minima/initialize";
+@import "minima";
+
+body {
+  background-color: #121212;
+  color: #e0e0e0;
+}
