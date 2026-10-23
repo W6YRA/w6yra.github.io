@@ -1,3 +1,8 @@
 theme: minima
 title: W6YRA - Bruin Amateur Radio Club at UCLA
 description: hehe
+
+header_pages:
+  - index.md
+  - events.md
+  - resources.md

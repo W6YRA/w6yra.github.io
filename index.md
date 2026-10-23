@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Home"
-permalink: /home
 ---
 
 <body>
@@ -14,4 +13,3 @@ permalink: /home
         </nav>
     </header>
 </body>
-</html>
