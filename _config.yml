@@ -6,8 +6,12 @@ plugins:
   - jekyll-seo-tag
 
 minima:
-  skin: dark
-  header_pages:
+  skin: solarized-dark
+  nav_pages:
     - index.md
     - events.md
     - resources.md
+  social_links:
+    - title: Join our Discord!
+      icon: discord
+      url: "https://discord.gg/2aFBmqDwg9"

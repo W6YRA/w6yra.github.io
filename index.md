@@ -1,8 +1,9 @@
 ---
 layout: home
-title: "Home"
+title: "Bruin Amateur Radio Club"
 ---
 
 <body>
-  <div class="title">Bruin Amateur Radio Club</div>
+  <div class="title"></div>
 </body>
+
