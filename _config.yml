@@ -10,3 +10,8 @@ minima:
     - events.md
     - resources.md
 
+  social_links:
+  - title: Jekyll repository at GitHub
+    icon: github
+    url: "https://github.com/jekyll/jekyll"
+
