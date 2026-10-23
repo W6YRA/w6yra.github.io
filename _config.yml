@@ -1,4 +1,5 @@
 remote_theme: jekyll/minima
+title: W6YRA - Bruin Amateur Radio Club
 
 plugins:
   - jekyll-remote-theme
@@ -6,12 +7,15 @@ plugins:
   - jekyll-seo-tag
 
 minima:
-  skin: solarized-dark
+  skin: dark
+
   nav_pages:
     - index.md
     - events.md
     - resources.md
+
   social_links:
     - title: Join our Discord!
       icon: discord
       url: "https://discord.gg/2aFBmqDwg9"
+  hide_site_feed_link: true

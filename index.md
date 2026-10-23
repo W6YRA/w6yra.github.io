@@ -1,6 +1,6 @@
 ---
-layout: home
-title: "Bruin Amateur Radio Club"
+layout: page
+title: "Home"
 ---
 
 <body>
