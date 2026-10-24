@@ -63,7 +63,6 @@ body {
   margin: 20px 0;
 }
 
-/* The box itself; centers the icon inside it */
 .icon-box {
   display: flex;
   align-items: center;
@@ -73,12 +72,14 @@ body {
   background-color: #ffffff;
   color: #2774AE;
   font-size: 30px;
-  border-radius: 8px;      /* use 0 for sharp corners, 50% for a circle */
+  border-radius: 8px;
+  border-width: 1px;
+  border-color: #003B5C;
   text-decoration: none;
 }
 
 .icon-box:hover {
-  background-color: #003B5C;
+  background-color: #2774AE;
   color: #ffffff;
 }
 
