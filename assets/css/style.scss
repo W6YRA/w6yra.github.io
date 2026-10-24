@@ -16,7 +16,7 @@
 .site-header .site-nav .nav-item,
 .site-header .site-nav .nav-item:visited {
   color: #e0e0e0;
-  font-weight: bold;
+  font-weight: 500;
 }
 
 .site-header .site-title:hover,
@@ -43,6 +43,7 @@ body {
   font-family: Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans', source-sans-pro, sans-serif;
   font-weight: normal;
   text-align: center;
+  font-size: 25px;
 }
 
 .post-header,
