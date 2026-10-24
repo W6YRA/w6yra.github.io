@@ -149,7 +149,7 @@ body {
   padding: 12px;
   background-color: #2774AE;
   color: #ffffff;
-  font-size: 1.1rem;
+  font-size: 25px;
 }
 
 .card img {
@@ -157,6 +157,8 @@ body {
   object-fit: cover;
   display: block;
   border-radius: 50%;
+  aspect-ratio: 1 / 1;
+  margin: 16px auto; 
 }
 
 .card-name {
