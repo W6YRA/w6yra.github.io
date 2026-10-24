@@ -11,7 +11,7 @@ title: "Home"
 </p>
 <p class="intro-content">Meetings are Fridays weekly at 5pm, located at the radio shack (Boelter 8563-C). To get there, take the elevator located beside the SEASNet Cafe in Boelter Hall up to floor 8.</p>
 
-<a href="https://discord.gg/2aFBmqDwg9" class="fa fa-discord"></a>
+<a href="https://discord.gg/2aFBmqDwg9" class="fa-brands fa-discord"></a>
 
 <hr>
 
