@@ -6,12 +6,18 @@
   "minima/initialize";
 
 
-.site-header {
-  background-color: #2774AE;
+body {
+  color: #e0e0e0;
 }
 
-body {
-color: #e0e0e0;
+h1 {
+  color: #003B5C;
+}
+
+.site-header {
+  background-color: #2774AE;
+  color: #e0e0e0;
+  font-family: "Noto Serif Display"
 }
 
 .post-header,
