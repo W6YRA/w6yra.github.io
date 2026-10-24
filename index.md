@@ -25,6 +25,7 @@ title: "Home"
     <img src="assets\images\20260515_172903.jpg">
     <img src="assets\images\DSC00865.jpg">
     <img src="assets\images\IMG_0203.jpg">
+    <img src="assets\images\20261017_145528.jpg">
   </div>
   <button class="carousel-btn next">&#10095;</button>
 </div>
@@ -68,7 +69,7 @@ title: "Home"
   <div class="card">
     <h3 class="card-title">External Director</h3>
     <img src="assets\images\Portrait_Placeholder.png">
-    <p class="card-name">Jingyao</p>
+    <p class="card-name">Jingyao Zhang</p>
   </div>
   <div class="card">
     <h3 class="card-title">Socials Coordinator</h3>
