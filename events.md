@@ -6,7 +6,7 @@ permalink: /events
 
 <h1 class="intro-heading">Upcoming Events & Activities</h1>
 <p class="intro-content">
-  Come join us in participating in activities such as:
+  Come join us in activities such as:
   <ul>
     <li>Collegiate radio contests</li>
     <li>Field operations</li>
