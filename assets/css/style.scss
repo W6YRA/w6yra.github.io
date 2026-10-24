@@ -170,3 +170,8 @@ body {
   font-weight: bold;
   color: #003B5C;
 }
+
+ul {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
