@@ -5,6 +5,11 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
-  body {
-  color: #e0e0e0;
+body {
+color: #e0e0e0;
+}
+
+.post-header,
+.page-heading {
+  display: none;
 }
