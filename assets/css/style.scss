@@ -144,12 +144,11 @@ body {
   text-align: center;
 }
 
-.card-title {
+.card .card-title {
   margin: 0;
-  padding: 6px;
-  background-color: #2774AE;
-  color: #ffffff;
+  padding: 6px 8px;
   font-size: 0.7rem;
+  line-height: 1.2;
 }
 
 .card img {
