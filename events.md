@@ -19,4 +19,4 @@ permalink: /events
 
 <hr>
 
-<p class="intro-content">There are currently no planned events. Stay tuned and join our Discord for updates!</p>
+<p class="intro-content">There are currently no planned events. Stay tuned and join our <a href="https://discord.gg/2aFBmqDwg9">Discord</a> for updates!</p>
