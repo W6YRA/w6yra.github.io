@@ -10,6 +10,8 @@ title: "Home"
   Whether you're a licensed operator, a complete beginner, or just curious about radio technology, you're in the right place.
 </p>
 
+<hr>
+
 <div class="carousel">
   <button class="carousel-btn prev">&#10094;</button>
   <div class="carousel-pics">
@@ -22,7 +24,6 @@ title: "Home"
   <button class="carousel-btn next">&#10095;</button>
 </div>
 
-<hr>
 
 <script>
   document.querySelectorAll('.carousel').forEach(function (c) {
