@@ -126,3 +126,42 @@ body {
 .carousel-btn:hover { background: rgba(0, 0, 0, 0.8); }
 .carousel-btn.prev { left: 12px; }
 .carousel-btn.next { right: 12px; }
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  margin: 20px 0;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #003B5C;
+  border-radius: 10px;
+  overflow: hidden;           /* keeps the photo's corners rounded */
+  background: #ffffff;
+  text-align: center;
+}
+
+.card-title {
+  margin: 0;
+  padding: 12px;
+  background-color: #2774AE;
+  color: #ffffff;
+  font-size: 1.1rem;
+}
+
+.card img {
+  width: 100%;
+  aspect-ratio: 3 / 4;        /* makes the photo area tall (vertical) */
+  object-fit: cover;          /* crops to fill without stretching */
+  display: block;
+}
+
+.card-name {
+  margin: 0;
+  padding: 12px;
+  font-weight: bold;
+  color: #003B5C;
+}

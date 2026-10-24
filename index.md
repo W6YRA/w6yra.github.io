@@ -44,3 +44,45 @@ title: "Home"
 <hr>
 
 <h1 class="intro-heading">2026-27 Officers</h1>
+<div class="card-grid">
+  <div class="card">
+    <h3 class="card-title">President</h3>
+    <img src="assets\images\Portrait_Placeholder.png">
+    <p class="card-name">JQ</p>
+  </div>
+  <div class="card">
+    <h3 class="card-title">Vice President</h3>
+    <img src="assets\images\Portrait_Placeholder.png">
+    <p class="card-name">Will</p>
+  </div>
+  <div class="card">
+    <h3 class="card-title">Secretary</h3>
+    <img src="assets\images\Portrait_Placeholder.png">
+    <p class="card-name">Safwa</p>
+  </div>
+  <div class="card">
+    <h3 class="card-title">Internal Director</h3>
+    <img src="assets\images\Portrait_Placeholder.png">
+    <p class="card-name">Jaden</p>
+  </div>
+  <div class="card">
+    <h3 class="card-title">External Director</h3>
+    <img src="assets\images\Portrait_Placeholder.png">
+    <p class="card-name">Jingyao</p>
+  </div>
+  <div class="card">
+    <h3 class="card-title">Socials Coordinator</h3>
+    <img src="assets\images\Portrait_Placeholder.png">
+    <p class="card-name">Michelle</p>
+  </div>
+  <div class="card">
+    <h3 class="card-title">Faculty Advisor</h3>
+    <img src="assets\images\Portrait_Placeholder.png">
+    <p class="card-name">Dr. Ian Roberts</p>
+  </div>
+  <div class="card">
+    <h3 class="card-title">Club Trustee</h3>
+    <img src="assets\images\Portrait_Placeholder.png">
+    <p class="card-name">Dr. Brent Corbin</p>
+  </div>
+</div>
