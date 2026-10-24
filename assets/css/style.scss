@@ -57,7 +57,7 @@ body {
 
 .carousel {
   position: relative;
-  width: 100vw;      
+  width: 100vw;
   margin-left: calc(50% - 50vw);
   margin-top: 20px;
   margin-bottom: 20px;
@@ -78,7 +78,7 @@ body {
 
 .carousel-pics img {
   flex: 0 0 70%;
-  height: 60vh;
+  height: 40vh;
   object-fit: cover;
   scroll-snap-align: center;
   border-radius: 8px;
