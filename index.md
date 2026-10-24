@@ -11,6 +11,8 @@ title: "Home"
 </p>
 <p class="intro-content">Meetings are Fridays weekly at 5pm, located at the radio shack (Boelter 8563-C). To get there, take the elevator located beside the SEASNet Cafe in Boelter Hall up to floor 8.</p>
 
+<a href="https://discord.gg/2aFBmqDwg9" class="fa fa-discord"></a>
+
 <hr>
 
 <div class="carousel">
@@ -29,10 +31,10 @@ title: "Home"
   document.querySelectorAll('.carousel').forEach(function (c) {
     var track = c.querySelector('.carousel-pics');
     c.querySelector('.prev').onclick = function () {
-      track.scrollBy({ left: -track.clientWidth * 0.7, behavior: 'smooth' });
+      track.scrollBy({ left: -track.clientWidth * 0.6, behavior: 'smooth' });
     };
     c.querySelector('.next').onclick = function () {
-      track.scrollBy({ left: track.clientWidth * 0.7, behavior: 'smooth' });
+      track.scrollBy({ left: track.clientWidth * 0.6, behavior: 'smooth' });
     };
   });
 </script>
