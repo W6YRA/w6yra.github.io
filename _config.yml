@@ -1,5 +1,6 @@
 remote_theme: jekyll/minima
 title: W6YRA - Bruin Amateur Radio Club
+description: © Bruin Amateur Radio Club 2026
 
 plugins:
   - jekyll-remote-theme
