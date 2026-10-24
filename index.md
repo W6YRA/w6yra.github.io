@@ -5,8 +5,8 @@ title: "Home"
 
 <h1 class="intro-heading">Welcome to the Bruin Amateur Radio Club!</h1>
 <p class="intro-content">
-  We are a community of Bruins dedicated to the art and science of amateur (HAM) radio — everything from collegiate contesting, HF experimentation, satellite communication, digital modes, and much more.
-
+  We' a're a community of Bruins dedicated to the art and science of amateur (HAM) radio—everything from collegiate contesting, HF experimentation, satellite communication, digital modes, and much more.
+  <br>
   Whether you're a licensed operator, a complete beginner, or just curious about radio technology, you're in the right place.
 </p>
 <p class="intro-content">Meetings are Fridays weekly at 5pm, located at the radio shack (Boelter 8563-C). To get there, take the elevator located beside the SEASNet Cafe in Boelter Hall up to floor 8.</p>
@@ -25,7 +25,6 @@ title: "Home"
   <button class="carousel-btn next">&#10095;</button>
 </div>
 
-
 <script>
   document.querySelectorAll('.carousel').forEach(function (c) {
     var track = c.querySelector('.carousel-pics');
@@ -39,3 +38,5 @@ title: "Home"
 </script>
 
 <hr>
+
+<h1 class="intro-heading">2026-27 Officers</h1>
