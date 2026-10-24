@@ -171,9 +171,13 @@ body {
   color: #003B5C;
 }
 
-ul {
+.event-list {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  place-items: center;
-  text-align: left;
+  column-gap: 60px;
+  row-gap: 8px;
+  justify-items: start;
+  width: fit-content; 
+  margin: 0 auto 15px;
+  padding: 0;
 }
