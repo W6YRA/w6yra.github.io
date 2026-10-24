@@ -11,7 +11,7 @@ title: "Home"
 </p>
 
 <div class="carousel">
-  <button class="carousel-btn prev" aria-label="Previous photo">&#10094;</button>
+  <button class="carousel-btn prev">&#10094;</button>
   <div class="carousel-pics">
     <img src="assets\images\IMG_0263.jpg">
     <img src="assets\images\20260311_175301.jpg">
@@ -19,8 +19,10 @@ title: "Home"
     <img src="assets\images\DSC00865.jpg">
     <img src="assets\images\IMG_0203.jpg">
   </div>
-  <button class="carousel-btn next" aria-label="Next photo">&#10095;</button>
+  <button class="carousel-btn next">&#10095;</button>
 </div>
+
+<hr>
 
 <script>
   document.querySelectorAll('.carousel').forEach(function (c) {
@@ -33,3 +35,5 @@ title: "Home"
     };
   });
 </script>
+
+<hr>
