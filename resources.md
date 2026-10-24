@@ -4,4 +4,4 @@ title: "Resources"
 permalink: /resources
 ---
 
-<h1>HELLO</h1>
+<h1 class="intro-heading">Upcoming Events & Activities</h1>
