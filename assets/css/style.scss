@@ -63,7 +63,7 @@ body {
   margin-bottom: 20px;
 }
 
-.carousel-track {
+.carousel-pics {
   display: flex;
   gap: 12px;
   overflow-x: auto;
@@ -72,11 +72,11 @@ body {
   padding: 0 5vw;
 }
 
-.carousel-track::-webkit-scrollbar {
+.carousel-pics::-webkit-scrollbar {
   display: none;
 }
 
-.carousel-track img {
+.carousel-pics img {
   flex: 0 0 70%;
   height: 60vh;
   object-fit: cover;
