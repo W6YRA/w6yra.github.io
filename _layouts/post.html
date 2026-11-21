@@ -2,7 +2,7 @@
 layout: base
 ---
 <article class="post">
-  <header class="intro-header">
+  <div class="post-content">
     <h1 class="post-heading" itemprop="name headline">{{ page.title | escape }}</h1>
     <div class="post-meta">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -29,7 +29,7 @@ layout: base
       </div>
       {%- endif %}
     </div>
-  </header>
+  </div>
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
