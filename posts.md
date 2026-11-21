@@ -4,4 +4,4 @@ title: "Posts and Updates"
 permalink: /posts
 ---
 
-<div class="intro-heading">Posts</h1>
+<h1 class="intro-heading">Posts</div>
