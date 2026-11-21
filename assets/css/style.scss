@@ -183,6 +183,12 @@ body {
 }
 
 
+.intro-header {
+  margin-bottom: $spacing-unit;
+  padding-bottom: 18px;
+  text-align: center;
+  border-bottom: 1px solid $border-color-01;
+}
 
 .post-heading {
   color: #003B5C;
