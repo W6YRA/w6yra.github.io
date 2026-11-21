@@ -1,5 +1,5 @@
 ---
-layout: posthome
+layout: home
 title: "Posts and Updates"
 permalink: /posts
 ---
