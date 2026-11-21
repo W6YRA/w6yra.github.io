@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Test Post"
-date: 0000-01-01 12:00:00 -0800
+date: 2000-01-01 12:00:00 -0800
 categories: updates
 hidden: false
 ---
