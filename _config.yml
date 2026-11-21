@@ -13,7 +13,7 @@ minima:
   nav_pages:
     - index.md
     - events.md
-    - resources.md
+    - posts.md
 
   hide_site_feed_link: true
 
