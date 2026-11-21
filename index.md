@@ -13,6 +13,7 @@ title: "Home"
 
 <div class="socials">
   <a href="https://discord.gg/2aFBmqDwg9" class="icon-box"><i class="fa-brands fa-discord"></i></a>
+  <a href="https://www.instagram.com/bruinamateurradioclub/" class="icon-box"><i class="fa-brands fa-instagram"></i></a>
 </div>
 
 <hr>
