@@ -3,7 +3,7 @@ layout: post
 title: "Test Post"
 date: 0000-01-01 12:00:00 -0800
 categories: updates
-hidden: true
+hidden: false
 ---
 
 The first paragraph of the post will show up as a preview on the post homepage.
