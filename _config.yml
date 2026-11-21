@@ -16,3 +16,5 @@ minima:
     - resources.md
 
   hide_site_feed_link: true
+
+  show_excerpts: true

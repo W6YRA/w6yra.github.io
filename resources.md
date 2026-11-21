@@ -1,7 +1,7 @@
 ---
 layout: home
-title: "Resources"
-permalink: /resources
+title: "Posts and Updates"
+permalink: /posts
 ---
 
-<h1 class="intro-heading">Resources</h1>
+<h1 class="intro-heading">Posts</h1>
